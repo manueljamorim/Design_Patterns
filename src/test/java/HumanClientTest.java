@@ -2,6 +2,8 @@ import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 
 public class HumanClientTest {
+
+
     @Test
     public void addObserver() {
         Bar bar = new StringBar();

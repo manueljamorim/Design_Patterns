@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class RomulanAlien {
+public class RomulanAlien extends AlienClient{
+    protected OrderingStrategy createOrderingStrategy() {
+        return new ImpatientStrategy();
+
+    }
 }
