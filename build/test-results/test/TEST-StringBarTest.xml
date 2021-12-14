@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="StringBarTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-12-14T19:23:54" hostname="MBP-de-Manuel" time="0.002">
+<testsuite name="StringBarTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-12-14T19:58:41" hostname="MBP-de-Manuel" time="0.002">
   <properties/>
   <testcase name="happyHour()" classname="StringBarTest" time="0.001"/>
   <testcase name="orderStringRecipe()" classname="StringBarTest" time="0.0"/>
